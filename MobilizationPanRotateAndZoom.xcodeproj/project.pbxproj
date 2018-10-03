@@ -12,6 +12,7 @@
 		6626D82621652246003ED39D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6626D82421652246003ED39D /* Main.storyboard */; };
 		6626D82821652248003ED39D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6626D82721652248003ED39D /* Assets.xcassets */; };
 		6626D82B21652248003ED39D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6626D82921652248003ED39D /* LaunchScreen.storyboard */; };
+		6626D833216539D3003ED39D /* swmansion.png in Resources */ = {isa = PBXBuildFile; fileRef = 6626D832216539D3003ED39D /* swmansion.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		6626D82721652248003ED39D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6626D82A21652248003ED39D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6626D82C21652248003ED39D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6626D832216539D3003ED39D /* swmansion.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = swmansion.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		6626D81F21652246003ED39D /* MobilizationPanRotateAndZoom */ = {
 			isa = PBXGroup;
 			children = (
+				6626D832216539D3003ED39D /* swmansion.png */,
 				6626D82021652246003ED39D /* AppDelegate.swift */,
 				6626D82221652246003ED39D /* ViewController.swift */,
 				6626D82421652246003ED39D /* Main.storyboard */,
@@ -125,6 +128,7 @@
 				6626D82B21652248003ED39D /* LaunchScreen.storyboard in Resources */,
 				6626D82821652248003ED39D /* Assets.xcassets in Resources */,
 				6626D82621652246003ED39D /* Main.storyboard in Resources */,
+				6626D833216539D3003ED39D /* swmansion.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
